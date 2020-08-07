@@ -1,11 +1,3 @@
-
-<img align="left" alt="Jrobinson99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jrobinson99&show_icons=true&hide_border=true" />
-<img align="left" alt="Jrobinson99's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrobinson99&layout=compact" />
-
-<br/>
----
-
-
 ### Hi there, I'm River Robinson
 
 ## I'm a student, developer, and technology enthusiast!
@@ -31,11 +23,16 @@
 - Publish a mobile game
 - Complete three different projects to show off.
 
-
 #### Goals for 2021
 - Make 1000 total commits
 - Work on more open source projects
 - Build and publish two new mobile games
+
+---
+
+<img align="left" alt="Jrobinson99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jrobinson99&show_icons=true&hide_border=true" />
+<img align="left" alt="Jrobinson99's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrobinson99&layout=compact" />
+
 
 
 [linkedin]: https://linkedin.com/in/river-robinson
