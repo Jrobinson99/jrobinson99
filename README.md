@@ -21,7 +21,8 @@
 ### Goals for 2020
 - Make 250 total commits
 - Publish a mobile game
-- Complete three different projects to show off.
+- Complete three different projects to show off. 
+  - One completed, needs some polishing!
 
 ### Goals for 2021
 - Make 1000 total commits
