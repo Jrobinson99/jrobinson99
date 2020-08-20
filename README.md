@@ -2,7 +2,7 @@
 
 ### I'm a student, developer, and technology enthusiast!
 - 🔭 I’m currently working to hone my skills as a developer!
-- 🌱 I’m currently learning Java, C#, and Git!
+- 🌱 I’m currently learning how to use Git!
 - 🔭 I'm always looking for new projects!
 - ⚡ Fun fact : I'm an aviation enthusiast!
 
