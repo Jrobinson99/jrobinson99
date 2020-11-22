@@ -4,7 +4,7 @@
 - 🔭 I’m currently working to hone my skills as a developer!
 - 🌱 I’m currently learning how to use Git!
 - 🔭 I'm always looking for new projects!
-- ⚡ Fun fact : I'm an aviation enthusiast!
+- ⚡ Fun fact : I grew up working with large animals.
 
 ### Connect with me:
 [<img align="left" alt="River Robinson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -20,14 +20,13 @@
 
 ### Goals for 2020
 - Make 250 total commits
-- Publish a mobile game
 - Complete three different projects to show off. 
   - One completed, needs some polishing!
 
 ### Goals for 2021
-- Make 1000 total commits
-- Work on more open source projects
-- Build and publish two new mobile games
+- Make 1000 total commits.
+- Work on more open source projects.
+- Build and publish a mobile game.
 
 ---
 
