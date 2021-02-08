@@ -1,6 +1,6 @@
 ## Hi there, I'm River Robinson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I'm a student, developer, and technology enthusiast!
+### I'm a developer and technology enthusiast!
 - 🔭 I’m currently working to hone my skills as a developer!
 - 🌱 I’m currently learning how to use Git!
 - 🔭 I'm always looking for new projects!
@@ -18,13 +18,9 @@
 
 <br>
 
-### Goals for 2020
-- Make 250 total commits
-- Complete three different projects to show off. 
-  - One completed, needs some polishing!
-
 ### Goals for 2021
 - Make 1000 total commits.
+- Publish two open source projects of my own.
 - Work on more open source projects.
 - Build and publish a mobile game.
 
