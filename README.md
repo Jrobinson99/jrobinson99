@@ -4,7 +4,6 @@
 - 🔭 I’m currently working to hone my skills as a developer!
 - 🌱 I’m currently learning how to use Git!
 - 🔭 I'm always looking for new projects!
-- ⚡ Fun fact : I grew up working with large animals.
 
 ### Connect with me:
 [<img align="left" alt="River Robinson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -18,11 +17,11 @@
 
 <br>
 
-### Goals for 2021
+### Goals for 2022
 - Make 1000 total commits.
-- Publish two open source projects of my own.
-- Work on more open source projects.
-- Build and publish a mobile game.
+- Publish my own source project.
+- Find a open source project or two and contribute.
+- Build and publish a mobile application.
 
 ---
 
