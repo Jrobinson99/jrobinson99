@@ -17,10 +17,8 @@
 
 <br>
 
-### Goals for 2022
+### Goals for 2023
 - Make 1000 total commits.
-- Publish my own source project.
-- Find a open source project or two and contribute.
 - Build and publish a mobile application.
 
 ---
